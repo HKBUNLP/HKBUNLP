@@ -1,7 +1,8 @@
 ### 👋 Welcome to the official GitHub repository of the HKBU-NLP group
 - 🔭 Group Lead: [Dr. Jing Ma](https://majingcuhk.github.io/).
 - 💞️ Research Interests: Natural Language Processing, Information Verification, Social Media Analytics, Information Retrieval, Explainable Machine Learning, and Large Language Models.
-- 🌱 Current Group Members (PhD Students): [Ruichao Yang](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en), [Shuai Niu](https://scholar.google.com/citations?user=lIpm3nEAAAAJ&hl=zh-CN&inst=10806615469772578445&oi=ao), [Ziyang Luo](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=en), [Hongzhan Lin](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=en), Yuxi Sun, [Bo Wang](https://scholar.google.com/citations?user=AwFj_u8AAAAJ&hl=zh-CN&inst=10806615469772578445&oi=ao) (visiting from JLU).
+- 🌱 Current Group Members (PhD Students): [Shuai Niu](https://scholar.google.com/citations?user=lIpm3nEAAAAJ), [Ziyang Luo](https://scholar.google.com/citations?user=VI8NeJEAAAAJ), [Hongzhan Lin](https://scholar.google.com/citations?user=hOF1SLoAAAAJ), Yuxi Sun, [Chuyi Kong](https://scholar.google.com/citations?user=w5vcgWYAAAAJ), Rao Fu.
+- ❀ Alumni: [Ruichao Yang](https://scholar.google.com/citations?user=DI3rqUAAAAAJ), [Bo Wang](https://scholar.google.com/citations?user=AwFj_u8AAAAJ), [Zhiwei Yang](https://scholar.google.com/citations?user=SmOi-WYAAAAJ), Likai Peng.
 - 📫 How to reach us: majing@hkbu.edu.hk
 
 <!---
